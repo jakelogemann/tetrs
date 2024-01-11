@@ -1,5 +1,7 @@
 # tetris
 
+![logo](./assets/icon.png)
+
 - [x] Basic gameplay（random piece、piece rotation and move、clear full lines、scores）
 - [x] Game UI
 - [x] Game Audio
