@@ -1,0 +1,24 @@
+[package]
+edition = "2021"
+name = "tetris"
+version = "0.1.0"
+
+[lib]
+name = "tetris_lib"
+path = "src/lib.rs"
+
+[[bin]]
+name = "Tetris"
+path = "src/main.rs"
+
+[dependencies]
+bevy = { version = "0.12", features = ["wav", "bmp"] }
+bevy-inspector-egui = "0.22"
+catppuccin-egui = "3.1"
+rand = "0.8"
+winit = "0.29"
+polis_macros = { path = "../polis_macros" }
+build-info = "0.0.34"
+
+[build-dependencies]
+build-info-build = "0.0.34"
