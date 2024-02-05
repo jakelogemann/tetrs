@@ -1,4 +1,4 @@
-# tetris
+# tetrs
 
 ![logo](./assets/icon.png)
 
