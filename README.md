@@ -2,13 +2,13 @@
 
 ![logo](./assets/icon.png)
 
-- [x] Basic gameplay（random piece、piece rotation and move、clear full lines、scores）
-- [x] Game UI
-- [x] Game Audio
-- [x] Support pausing, resuming and restarting game
-- [x] Support web
-- [x] Display next piece
-- [x] Bag7 random algorithm
+a crappy, unofficial, implementation of something resembling that one game with randomized falling tetrominos.
+
+- [x] Playable（random piece; pieces rotate and move; rules applied）
+- [x] Basic UI/Scoring (lines clear; score is calculated; next piece displayed).
+- [x] Game Audio (annoying, but functional).
+- [x] Functional Pause/Resume/Restart
+- [x] Supports web
 
 ## Setup
 
